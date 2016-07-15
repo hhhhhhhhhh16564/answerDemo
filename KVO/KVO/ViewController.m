@@ -32,11 +32,11 @@
 
 - (void)observeValueForKeyPath:(NSString *)keyPath ofObject:(id)object change:(NSDictionary<NSString *,id> *)change context:(void *)context {
     
-
+    
     
     NSLog(@"%@",_model.name);
-
-
+    
+    
 }
 
 
@@ -51,8 +51,8 @@
     // 通过set方法 给model的name赋值
     _model.name = [NSString stringWithFormat:@"小强 %d 号",i];
     
-//    // 直接访问成员变量进行赋值
-//    _model -> _name = [NSString stringWithFormat:@"小强 %d 号",i];
+    //    // 直接访问成员变量进行赋值
+    //    _model -> _name = [NSString stringWithFormat:@"小强 %d 号",i];
     
 }
 

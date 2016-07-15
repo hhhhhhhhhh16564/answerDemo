@@ -4,7 +4,7 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>answerDemo.xcscheme</key>
+		<key>KVO.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
@@ -12,7 +12,7 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>63E5DDAB1D3398E400103CE1</key>
+		<key>632DAE411D3909780033311E</key>
 		<dict>
 			<key>primary</key>
 			<true/>
